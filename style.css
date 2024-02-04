@@ -1,0 +1,60 @@
+
+    body{
+    /*background-color: skyblue;*/
+    background: skyblue ;
+    background-size: cover;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+
+    #header{
+    margin-top: 50px;
+    padding-bottom: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    }
+
+    #header h2{
+    font-family: 'poppins';
+    font-weight: 250;
+    color: #fff;
+    }
+    #footer{
+        padding-top: 10px;
+        font-family: 'poppins';
+        font-size: 11px;  
+    }
+    .card{
+    border: 10px solid transparent;
+    border-radius: 30px;
+    background-color: rgba(245, 245, 245, 0.4);
+    box-shadow: 2px 2px 2px grey;
+    }
+    .img-fluid{
+        padding-bottom: 20px;
+    }
+    
+    .inputcity{
+    background-color: transparent;
+    
+    }
+
+    .location{
+    font-size: larger;
+    }
+
+    .date{
+    font-size: small;
+    }
+    
+    .temp{
+    font-size: 6vh;
+    }
+
+    .weather{
+    font-size: x-large;
+    }
+    
+   
